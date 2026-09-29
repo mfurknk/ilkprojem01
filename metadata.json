@@ -1,0 +1,6 @@
+{
+  "name": "Fıkıh Usulü: Hüsn ve Kubuh & Vakit Mütalaa Platformu",
+  "description": "Klasik Hanefî Fıkıh Usulü dersi transkripti, interaktif Hüsn ve Kubuh taksimat şeması, mukayyed emir tahlilleri, fakihler arası ihtilaflar ve kavram sözlüğü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
